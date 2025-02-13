@@ -1,0 +1,4 @@
+npx create-react-app qualis-designers
+cd qualis-designers
+npm install tailwindcss postcss autoprefixer framer-motion react-icons react-router-dom @headlessui/react
+npx tailwindcss init -p 
